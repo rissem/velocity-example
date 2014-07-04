@@ -11,4 +11,3 @@ mocha-web-velocity
 coffeescript
 jasmine-unit
 moment
-velocity-html-reporter
