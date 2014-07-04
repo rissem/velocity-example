@@ -4,4 +4,4 @@ before_install:
   npm install meteorite velocity-ci
 
 script:
-  test.sh
+  bash test.sh
